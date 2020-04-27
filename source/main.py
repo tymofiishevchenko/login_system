@@ -132,5 +132,5 @@ def presence_check(login):
     return False
 
 
-if__name__ == '__main__':
+if __name__ == '__main__':
     login_input()
